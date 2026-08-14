@@ -1,2 +1,1 @@
-# networks-B082-week1-Cybersecurity-lab-setup
-cyber security lab what is the purpose this i followed this steps
+step 1: Download & install 7-zip: https://7-zip.org/download.html step 2: Download & install Virtualbox on your laptop/pc: https://virtualbox.org/wiki/downloads step 3: configure the network setting on your virtualbox (create NATNetwork in 10.0.00/24) step 4: Download & import kali linux virtual Machine in your Virtualbox: https://kali.org/get-kali step 5: Setup the ip configuration of kali linux step 6 : Take snapshot of the VM
